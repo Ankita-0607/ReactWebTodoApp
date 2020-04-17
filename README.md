@@ -1,2 +1,0 @@
-# ReactWebTodoApp
-Created with CodeSandbox
